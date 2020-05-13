@@ -1,0 +1,24 @@
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\bin\Debug\ProjectoConexao.exe.config
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\bin\Debug\ProjectoConexao.exe
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\bin\Debug\ProjectoConexao.pdb
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\bin\Debug\ProjectoConexao.xml
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\obj\Debug\ProjectoConexao.Form1.resources
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\obj\Debug\ProjectoConexao.Resources.resources
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\obj\Debug\ProjectoConexao.vbproj.GenerateResource.Cache
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\obj\Debug\ProjectoConexao.exe
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\obj\Debug\ProjectoConexao.xml
+C:\Users\Lazaro\AppData\Local\Temporary Projects\ProjectoConexao\obj\Debug\ProjectoConexao.pdb
+C:\Users\Lazaro\Documents\Visual Studio 2012\Projects\ProjectoConexao\ProjectoConexao\bin\Debug\ProjectoConexao.exe.config
+C:\Users\Lazaro\Documents\Visual Studio 2012\Projects\ProjectoConexao\ProjectoConexao\obj\Debug\ProjectoConexao.exe
+C:\Users\Lazaro\Documents\Visual Studio 2012\Projects\ProjectoConexao\ProjectoConexao\obj\Debug\ProjectoConexao.xml
+C:\Users\Lazaro\Documents\Visual Studio 2012\Projects\ProjectoConexao\ProjectoConexao\obj\Debug\ProjectoConexao.pdb
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\bin\Debug\ProjectoConexao.exe.config
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\obj\Debug\ProjectoConexao.exe
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\obj\Debug\ProjectoConexao.xml
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\obj\Debug\ProjectoConexao.pdb
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\bin\Debug\ProjectoConexao.exe
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\bin\Debug\ProjectoConexao.pdb
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\bin\Debug\ProjectoConexao.xml
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\obj\Debug\ProjectoConexao.Form1.resources
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\obj\Debug\ProjectoConexao.Resources.resources
+C:\Users\Lazaro\Desktop\vbconexao\ProjectoConexao\obj\Debug\ProjectoConexao.vbproj.GenerateResource.Cache
